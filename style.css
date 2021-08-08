@@ -1,0 +1,14 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+body{
+    background-size:cover ;
+}
+
+
+canvas{
+    width: 200px;
+    height: 200px;
+}
